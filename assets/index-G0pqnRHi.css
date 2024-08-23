@@ -1,4 +1,4 @@
-*,
+f*,
 :before,
 :after {
     box-sizing: border-box;
@@ -447,8 +447,7 @@ video {
 .h-\[calc\(100\%_-_4\.25rem-0\.5rem\)\] {
     height: calc(100% - 4.75rem);
 }
-.h-full {
-    height: 100%;
+
 }
 .w-0 {
     width: 0px;
