@@ -420,8 +420,8 @@ video {
 .mt-1 {
     margin-top: 0.25rem;
 }
-.n {
-    display: n;
+.block {
+    display: block;
 }
 .flex {
     display: flex;
