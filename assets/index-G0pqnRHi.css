@@ -590,8 +590,7 @@ video {
 .font-semibold {
     font-weight: 600;
 }
-.text-Blue {
-    color: var(--Blue);
+
 }
 .text-Subtext0 {
     color: var(--Subtext0);
