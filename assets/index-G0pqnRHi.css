@@ -1,4 +1,4 @@
-f*,
+*,
 :before,
 :after {
     box-sizing: border-box;
@@ -502,11 +502,6 @@ video {
 }
 .justify-center {
     justify-content: center;
-}
-
-.h-full {
-    height: 100%;
-
 }
 .justify-between {
     justify-content: space-between;
