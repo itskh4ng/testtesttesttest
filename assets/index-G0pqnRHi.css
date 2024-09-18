@@ -622,12 +622,12 @@ body {
     --theme-night: #58a6ff;
 }
 body[data-theme="mocha"] {
-    --Crust: #11111b;
-    --Base: #1e1e2e;
-    --Surface0: #313244;
-    --Text: #cdd6f4;
-    --Subtext0: #a6adc8;
-    --Blue: #89b4fa;
+    --Crust: #0d1117;
+    --Base: #161b22;
+    --Surface0: #21262d;
+    --Text: #c9d1d9;
+    --Subtext0: #8b949e;
+    --Blue: #58a6ff;
 }
 body[data-theme="macchiato"] {
     --Crust: #181926;
