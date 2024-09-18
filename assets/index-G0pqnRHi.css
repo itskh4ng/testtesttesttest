@@ -611,7 +611,7 @@ video {
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
 body {
-    --theme-mocha: #89b4fa;
+    --theme-skibidi: #89b4fa;
     --theme-macchiato: #8aadf4;
     --theme-frappe: #8caaee;
     --theme-latte: #1e66f5;
@@ -621,7 +621,7 @@ body {
     --theme-gruvbox: #ebdbb2;
     --theme-night: #58a6ff;
 }
-body[data-theme="mocha"] {
+body[data-theme="skibidi"] {
     --Crust: #0d1117;
     --Base: #161b22;
     --Surface0: #21262d;
