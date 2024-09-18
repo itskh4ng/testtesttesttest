@@ -611,7 +611,7 @@ video {
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
 body {
-    --theme-mocha: #89b4fa;
+    --theme-mocha: #161b22;
     --theme-macchiato: #8aadf4;
     --theme-frappe: #8caaee;
     --theme-latte: #1e66f5;
