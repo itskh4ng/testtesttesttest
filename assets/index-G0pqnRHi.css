@@ -619,7 +619,7 @@ body {
     --theme-rose-pine: #ebbcba;
     --theme-moss: #4caf50;
     --theme-gruvbox: #ebdbb2;
-    --theme-night: #58a6ff;
+    --theme-night: #161b22;
 }
 body[data-theme="mocha"] {
     --Crust: #0d1117;
